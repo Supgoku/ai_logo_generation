@@ -5,20 +5,6 @@ Logo creation is a complex and expansive problem for artificial intelligence. Th
 Some of the code in this repo is from https://github.com/gttugsuu/Constrained-Neural-Style-Transfer-for-Decorated-Logo-Generation/ aka CNST.
 See cnst_LICENSE.txt and cnst_README.txt for license and readme for the original work.
 Code from CNST is marked with a notice at the top of the source files.
- 
-## Project Breakdown
-
-High level work items.
-You can edit this, put your name on one, and commit the change if you are working on it so we don't duplicate work.
-
-* type rendering (Done)
-* style transfer (Done)
-* noun dataset from shapenet (Done)
-* style dataset creation (Done)
-* synonym expansion (Done)
-* Create UI prototype (Done)
-* integration of all pieces (Done)
-* testing (Done)
 
 ## Notes
 
