@@ -1,5 +1,5 @@
-# cs510_ai_logo_generation
-Improving Logo Generation with Machine Learning and Artificial Intelligence by Approximating the Logo Design Process
+# Improving Logo Generation by Approximating the Logo Design Process
+
 
 ## Project Proposal at 
 https://www.overleaf.com/project/60995abeb573de49ae69fbae
