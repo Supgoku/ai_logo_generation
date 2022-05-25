@@ -1,9 +1,6 @@
 # Improving Logo Generation by Approximating the Logo Design Process
 
 
-## Project Proposal at 
-https://www.overleaf.com/project/60995abeb573de49ae69fbae
-
 ## Copyright
 Some of the code in this repo is from https://github.com/gttugsuu/Constrained-Neural-Style-Transfer-for-Decorated-Logo-Generation/ aka CNST.
 See cnst_LICENSE.txt and cnst_README.txt for license and readme for the original work.
